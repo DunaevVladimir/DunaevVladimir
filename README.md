@@ -10,7 +10,7 @@
 
 - 👨‍💻 также для тренировки JS я регулярно прохожу задачки на [codewars](https://www.codewars.com/users/Vladimir_Dunaev)
 
-- 🔭 сейчас работаю над проектом - [wedding-agency](https://github.com/DunaevVladimir/wedding-agency).
+- 🔭 сейчас работаю над проектом - [User-library](https://github.com/DunaevVladimir/User-library).
 
 - 📫 Вы можете связаться со мной:
 	- 	в телеграме [![Telegram Badge](https://img.shields.io/badge/-Vladimir_Dunaev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vladimir_Dunaev)
